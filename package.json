@@ -1,0 +1,11 @@
+{
+  "name": "web_scraper_node",
+  "version": "0.0.0",
+  "description": "web scraper in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Soesilo",
+  "license": "BSD-2-Clause"
+}
